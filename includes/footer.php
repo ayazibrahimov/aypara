@@ -19,7 +19,8 @@
                         <h5 class="widget-title">Link 1</h5>
                         <div class="widget widget_link">
                             <ul>
-                                <li><a href="indexşphp">Ana Səhifə</a></li>
+                                <li><a href="index.php">Ana Səhifə</a></li>
+                                <li><a href="allvideoes.php">Videolar</a></li>
                                 <li><a href="#">Haqqımızda</a></li>
                                 <li><a href="#">Əlaqə</a></li>
                                 <!-- <li><a href="#">Travel</a></li>
@@ -33,7 +34,6 @@
                             <ul>
                                 <li><a href="blog-category.php">İqtisadiyyat</a></li>
                                 <li><a href="blog-category.php">Siyasət</a></li>
-                                <li><a href="blog-category.php">Videos</a></li>
                                 <li><a href="blog-category.php">Cəmiyyət </a></li>
                                 <li><a href="blog-category.php">Hadisə </a></li>
                             </ul>

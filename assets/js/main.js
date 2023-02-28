@@ -100,26 +100,23 @@
         ------------------------------------------------*/
         $('.post-banner-slider').owlCarousel({
             loop: true,
-            margin: 10,
-            nav: false,
-            dots: true,
+            dots: false,
+            autoplayHoverPause:true,
             autoplay:true,
-            smartSpeed:1500,
-            items: 3,
-            // autoWidth:true,
-            navText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],   
+            smartSpeed:800,
+            items: 1,
             responsive : {
                 // breakpoint from 0 up
 
-                991:{
-                    items: 3,
-                },
-                768 : {
-                    items: 2,
-                },
-                300: {
-                    items: 1,
-                }
+                // 991:{
+                //     items: 1,
+                // },
+                // 768 : {
+                //     items: 1,
+                // },
+                // 300: {
+                //     items: 1,
+                // }
             }        
         });
 

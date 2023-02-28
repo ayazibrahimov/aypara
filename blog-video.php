@@ -76,7 +76,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="side-area">
-                        <div class="widget widget_search">
+                        <!-- <div class="widget widget_search">
                             <h5 class="widget-title">
                                 Axtar
                             </h5>
@@ -84,7 +84,7 @@
                                 <input type="text">
                                 <button class="btn">Axtar</button>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- <div class="widget widget_list mt-5">
                             <h4 class="widget-title">Categories</h4>
                             <ul class="list-inner">

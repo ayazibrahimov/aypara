@@ -22,117 +22,153 @@
 <div class="post-banner-area pd-top-30">
     <div class="container-fluid p-0">
         <div class="last__news my-2">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title d-flex justify-content-between ps-4">
-                        <h4 class="title left-line">Ən son xəbərlər</h4>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="section-title d-flex justify-content-between">
+                            <h4 class="title left-line">Ən son xəbərlər</h4>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="post-banner-slider owl-carousel">
+        <div class="post-banner-slider post-banner-slider--info  owl-carousel">
             <div class="item">
                 <!-- <div id="overlay"></div> -->
-                <a href="blog-details.php">
-                    <div class="top-post-wrap mb-0">
-                        <div class="header__slider">
-                            <!-- <div class="overlay"></div> -->
-                            <img src="assets/img/imagedata/news-image-2.jpg" alt="img">
-                        </div>
-                        <div class="top-post-details">
-                            <a class="tag top-right tag-pest tag__change-padding-left">Təbiət</a>
-                            <h5 class="header__slider--heading"><a href="blog-details.php">Dağlar qoynunda yerləşən,
-                                    "Rus Parisi" kimi tanınan Azərbaycan kəndi </a></h5>
 
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12 col-12">
+                            <div class="headers__slider--box">
+                                <div class="meta metda__data">
+                                    <a class="tag top-right tag-pest tag__change-padding-left">Siyasət</a>
+                                    <div class="">
+                                        <i class="fa fa-clock-o"></i>
+                                        <span class="font-wight-700">20 May, 2022</span>
+                                    </div>
+                                    <div class="author">
+                                        <div class="thumb">
+                                            <img src="assets/img/imagedata/avatar.jpg" alt="img">
+                                        </div>
+                                        <a href="#">Stiven Jackson</a>
+                                    </div>
+                                    <div class="">
+                                        <span class="font-wight-700"> 100 Baxış</span>
+                                    </div>
+                                </div>
+                                <div class="media-body media__body--data">
+                                    <h4><a href="blog-details.php">The golden rules of midlife fitness and things
+                                            getting
+                                            wrong.</a>
+                                    </h4>
+                                </div>
+                                <div class="btn__read">
+                                    <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12 col-12">
+                            <div class="first__banner--img---box">
+                                <a href="blog-details.php">
+                                    <img src="assets/img/imagedata/news-image-1.jpg" alt="">
+                                </a>
+                            </div>
                         </div>
                     </div>
-                </a>
+                </div>
+
             </div>
             <div class="item">
                 <!-- <div id="overlay"></div> -->
-                <a href="blog-details.php">
-                    <div class="top-post-wrap mb-0">
-                        <div class="header__slider">
-                            <div class="overlay"></div>
-                            <img src="assets/img/imagedata/digitalmarketing.jpg" alt="img">
-                        </div>
-                        <div class="top-post-details">
-                            <a class="tag top-right tag-purple tag__change-padding-left">Marketing</a>
-                            <h5 class="header__slider--heading"><a href="blog-details.php">Rəqəmsal marketing haqqında
-                                    məqalələr.Azərbaycanda rəqəmsal marketing sferası və onun inkişafı.</a></h5>
 
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12 col-12">
+                            <div class="headers__slider--box">
+                                <div class="meta metda__data">
+                                    <a class="tag top-right tag-pest tag__change-padding-left">Siyasət</a>
+                                    <div class="">
+                                        <i class="fa fa-clock-o"></i>
+                                        <span class="font-wight-700">20 May, 2022</span>
+                                    </div>
+                                    <div class="author">
+                                        <div class="thumb">
+                                            <img src="assets/img/imagedata/avatar.jpg" alt="img">
+                                        </div>
+                                        <a href="#">Stiven Jackson</a>
+                                    </div>
+                                    <div class="">
+                                        <span class="font-wight-700"> 100 Baxış</span>
+                                    </div>
+                                </div>
+                                <div class="media-body media__body--data">
+                                    <h4><a href="blog-details.php">The golden rules of midlife fitness and things
+                                            getting
+                                            wrong.</a>
+                                    </h4>
+                                </div>
+                                <div class="btn__read">
+                                    <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12 col-12">
+                            <a href="blog-details.php">
+                                <img src="assets/img/imagedata/news-image-1.jpg" alt="">
+                            </a>
                         </div>
                     </div>
-                </a>
+                </div>
+
             </div>
             <div class="item">
                 <!-- <div id="overlay"></div> -->
-                <a href="blog-details.php">
-                    <div class="top-post-wrap mb-0">
-                        <div class="header__slider">
-                            <div class="overlay"></div>
-                            <img src="assets/img/imagedata/news-image-2.jpg" alt="img">
-                        </div>
-                        <div class="top-post-details">
-                            <a class="tag top-right tag-pest tag__change-padding-left">Təbiət</a>
-                            <h5 class="header__slider--heading"><a href="blog-details.php">Dağlar qoynunda yerləşən,
-                                    "Rus Parisi" kimi tanınan Azərbaycan kəndi </a></h5>
 
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12 col-12">
+                            <div class="headers__slider--box">
+                                <div class="meta metda__data">
+                                    <a class="tag top-right tag-pest tag__change-padding-left">Siyasət</a>
+                                    <div class="">
+                                        <i class="fa fa-clock-o"></i>
+                                        <span class="font-wight-700">20 May, 2022</span>
+                                    </div>
+                                    <div class="author">
+                                        <div class="thumb">
+                                            <img src="assets/img/imagedata/avatar.jpg" alt="img">
+                                        </div>
+                                        <a href="#">Stiven Jackson</a>
+                                    </div>
+                                    <div class="">
+                                        <span class="font-wight-700"> 100 Baxış</span>
+                                    </div>
+                                </div>
+                                <div class="media-body media__body--data">
+                                    <h4><a href="blog-details.php">The golden rules of midlife fitness and things
+                                            getting
+                                            wrong.</a>
+                                    </h4>
+                                </div>
+                                <div class="btn__read">
+                                    <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12 col-12">
+                            <div class="first__banner--img---box">
+                                <a href="blog-details.php">
+                                    <img src="assets/img/imagedata/news-image-1.jpg" alt="">
+                                </a>
+                            </div>
                         </div>
                     </div>
-                </a>
-            </div>
-            <div class="item">
-                <!-- <div id="overlay"></div> -->
-                <a href="blog-details.php">
-                    <div class="top-post-wrap mb-0">
-                        <div class="header__slider">
-                            <div class="overlay"></div>
-                            <img src="assets/img/imagedata/digitalmarketing.jpg" alt="img">
-                        </div>
-                        <div class="top-post-details">
-                            <a class="tag top-right tag-purple tag__change-padding-left">Marketing</a>
-                            <h5 class="header__slider--heading"><a href="blog-details.php">Rəqəmsal marketing haqqında
-                                    məqalələr.Azərbaycanda rəqəmsal marketing sferası və onun inkişafı.</a></h5>
+                </div>
 
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="item">
-                <!-- <div id="overlay"></div> -->
-                <a href="blog-details.php">
-                    <div class="top-post-wrap mb-0">
-                        <div class="header__slider">
-                            <div class="overlay"></div>
-                            <img src="assets/img/imagedata/news-image-2.jpg" alt="img">
-                        </div>
-                        <div class="top-post-details">
-                            <a class="tag top-right tag-pest tag__change-padding-left">Təbiət</a>
-                            <h5 class="header__slider--heading"><a href="blog-details.php">Dağlar qoynunda yerləşən,
-                                    "Rus Parisi" kimi tanınan Azərbaycan kəndi </a></h5>
-
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="item">
-                <!-- <div id="overlay"></div> -->
-                <a href="blog-details.php">
-                    <div class="top-post-wrap mb-0">
-                        <div class="header__slider">
-                            <div class="overlay"></div>
-                            <img src="assets/img/imagedata/digitalmarketing.jpg" alt="img">
-                        </div>
-                        <div class="top-post-details">
-                            <a class="tag top-right tag-purple tag__change-padding-left">Marketing</a>
-                            <h5 class="header__slider--heading"><a href="blog-details.php">Rəqəmsal marketing haqqında
-                                    məqalələr.Azərbaycanda rəqəmsal marketing sferası və onun inkişafı.</a></h5>
-
-                        </div>
-                    </div>
-                </a>
             </div>
 
         </div>
@@ -150,107 +186,111 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                    <div class="media-post-wrap">
-                    <div class="index__image--2 mb-4">
-                        <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
-                    </div>
-                    <div class="media-body ms-0">
-                        <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
-                        </h4>
-                    </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="comment me-4">
-                            <span class="font-wight-700">Siyasət</span>
-                        </div>
+                        <div class="media-post-wrap">
+                            <div class="index__image--2 mb-4">
+                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
+                            </div>
+                            <div class="media-body ms-0">
+                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
+                                        wrong.</a>
+                                </h4>
+                            </div>
+                            <div class="meta d-flex justify-content-between">
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Siyasət</span>
+                                </div>
 
-                        <div class="date">
-                            <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'> 20 May, 2022</span>
+                                <div class="date">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class='font-wight-700'> 20 May, 2022</span>
+                                </div>
+                                <div class="comment">
+                                    <span class="font-wight-700"> 100 Baxış</span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="comment">
-                            <span class="font-wight-700"> 100 Baxış</span>
-                        </div>
-                    </div>
-                </div>
                     </div>
                     <div class="col-sm-6">
-                    <div class="media-post-wrap">
-                    <div class="index__image--2 mb-4">
-                        <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
-                    </div>
-                    <div class="media-body ms-0">
-                        <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
-                        </h4>
-                    </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="comment me-4">
-                            <span class="font-wight-700">Siyasət</span>
-                        </div>
+                        <div class="media-post-wrap">
+                            <div class="index__image--2 mb-4">
+                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
+                            </div>
+                            <div class="media-body ms-0">
+                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
+                                        wrong.</a>
+                                </h4>
+                            </div>
+                            <div class="meta d-flex justify-content-between">
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Siyasət</span>
+                                </div>
 
-                        <div class="date">
-                            <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'> 20 May, 2022</span>
+                                <div class="date">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class='font-wight-700'> 20 May, 2022</span>
+                                </div>
+                                <div class="comment">
+                                    <span class="font-wight-700"> 100 Baxış</span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="comment">
-                            <span class="font-wight-700"> 100 Baxış</span>
-                        </div>
-                    </div>
-                </div>
                     </div>
                     <div class="col-sm-6">
-                    <div class="media-post-wrap">
-                    <div class="index__image--2 mb-4">
-                        <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
-                    </div>
-                    <div class="media-body ms-0">
-                        <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
-                        </h4>
-                    </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="comment me-4">
-                            <span class="font-wight-700">Siyasət</span>
-                        </div>
+                        <div class="media-post-wrap">
+                            <div class="index__image--2 mb-4">
+                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
+                            </div>
+                            <div class="media-body ms-0">
+                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
+                                        wrong.</a>
+                                </h4>
+                            </div>
+                            <div class="meta d-flex justify-content-between">
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Siyasət</span>
+                                </div>
 
-                        <div class="date">
-                            <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'> 20 May, 2022</span>
+                                <div class="date">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class='font-wight-700'> 20 May, 2022</span>
+                                </div>
+                                <div class="comment">
+                                    <span class="font-wight-700"> 100 Baxış</span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="comment">
-                            <span class="font-wight-700"> 100 Baxış</span>
-                        </div>
-                    </div>
-                </div>
                     </div>
                     <div class="col-sm-6">
-                    <div class="media-post-wrap">
-                    <div class="index__image--2 mb-4">
-                        <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
-                    </div>
-                    <div class="media-body ms-0">
-                        <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
-                        </h4>
-                    </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="comment me-4">
-                            <span class="font-wight-700">Siyasət</span>
+                        <div class="media-post-wrap">
+                            <div class="index__image--2 mb-4">
+                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
+                            </div>
+                            <div class="media-body ms-0">
+                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
+                                        wrong.</a>
+                                </h4>
+                            </div>
+                            <div class="meta d-flex justify-content-between">
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Siyasət</span>
+                                </div>
+                                <div class="date">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class='font-wight-700'> 20 May, 2022</span>
+                                </div>
+                                <div class="comment">
+                                    <span class="font-wight-700"> 100 Baxış</span>
+                                </div>
+                            </div>
                         </div>
-
-                        <div class="date">
-                            <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'> 20 May, 2022</span>
-                        </div>
-                        <div class="comment">
-                            <span class="font-wight-700"> 100 Baxış</span>
-                        </div>
-                    </div>
-                </div>
                     </div>
 
                 </div>
             </div>
             <div class="col-lg-4">
 
-                <?php include 'includes/featuredPost.php' ?>
+                <?php include 'includes/author.php' ?>
+                <?php include 'includes/tags.php' ?>
 
             </div>
         </div>
@@ -275,13 +315,16 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="date ">
+                    <div class="meta d-flex justify-content-between">
+                        <div class="comment me-4">
+                            <span class="font-wight-700">Siyasət</span>
+                        </div>
+                        <div class="date">
                             <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'>20 May, 2022</span>
+                            <span class='font-wight-700'> 20 May, 2022</span>
                         </div>
                         <div class="comment">
-                            <span class='font-wight-700'>100 baxış</span>
+                            <span class="font-wight-700"> 100 Baxış</span>
                         </div>
                     </div>
                 </div>
@@ -295,13 +338,16 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="date ">
+                    <div class="meta d-flex justify-content-between">
+                        <div class="comment me-4">
+                            <span class="font-wight-700">Siyasət</span>
+                        </div>
+                        <div class="date">
                             <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'>20 May, 2022</span>
+                            <span class='font-wight-700'> 20 May, 2022</span>
                         </div>
                         <div class="comment">
-                            <span class='font-wight-700'>100 baxış</span>
+                            <span class="font-wight-700"> 100 Baxış</span>
                         </div>
                     </div>
                 </div>
@@ -315,13 +361,16 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="date ">
+                    <div class="meta d-flex justify-content-between">
+                        <div class="comment me-4">
+                            <span class="font-wight-700">Siyasət</span>
+                        </div>
+                        <div class="date">
                             <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'>20 May, 2022</span>
+                            <span class='font-wight-700'> 20 May, 2022</span>
                         </div>
                         <div class="comment">
-                            <span class='font-wight-700'>100 baxış</span>
+                            <span class="font-wight-700"> 100 Baxış</span>
                         </div>
                     </div>
                 </div>
@@ -335,13 +384,16 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="date ">
+                    <div class="meta d-flex justify-content-between">
+                        <div class="comment me-4">
+                            <span class="font-wight-700">Siyasət</span>
+                        </div>
+                        <div class="date">
                             <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'>20 May, 2022</span>
+                            <span class='font-wight-700'> 20 May, 2022</span>
                         </div>
                         <div class="comment">
-                            <span class='font-wight-700'>100 baxış</span>
+                            <span class="font-wight-700"> 100 Baxış</span>
                         </div>
                     </div>
                 </div>
@@ -355,13 +407,16 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="date ">
+                    <div class="meta d-flex justify-content-between">
+                        <div class="comment me-4">
+                            <span class="font-wight-700">Siyasət</span>
+                        </div>
+                        <div class="date">
                             <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'>20 May, 2022</span>
+                            <span class='font-wight-700'> 20 May, 2022</span>
                         </div>
                         <div class="comment">
-                            <span class='font-wight-700'>100 baxış</span>
+                            <span class="font-wight-700"> 100 Baxış</span>
                         </div>
                     </div>
                 </div>
@@ -375,13 +430,16 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
-                        <div class="date ">
+                    <div class="meta d-flex justify-content-between">
+                        <div class="comment me-4">
+                            <span class="font-wight-700">Siyasət</span>
+                        </div>
+                        <div class="date">
                             <i class="fa fa-clock-o"></i>
-                            <span class='font-wight-700'>20 May, 2022</span>
+                            <span class='font-wight-700'> 20 May, 2022</span>
                         </div>
                         <div class="comment">
-                            <span class='font-wight-700'>100 baxış</span>
+                            <span class="font-wight-700"> 100 Baxış</span>
                         </div>
                     </div>
                 </div>
@@ -490,7 +548,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="col-md-6">
                         <div class="media-post-wrap-3 media">
                             <div class="index__image--4">
@@ -521,7 +578,7 @@
 
                 <?php include 'includes/socialMedia.php' ?>
 
-                <?php include 'includes/featuredPost.php' ?>
+                <?php // include 'includes/featuredPost.php' ?>
 
                 <?php include 'includes/tags.php' ?>
 
@@ -548,11 +605,10 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
+                    <div class="meta d-flex justify-content-between">
                         <div class="comment me-4">
                             <span class="font-wight-700">Siyasət</span>
                         </div>
-
                         <div class="date">
                             <i class="fa fa-clock-o"></i>
                             <span class='font-wight-700'> 20 May, 2022</span>
@@ -572,11 +628,10 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
+                    <div class="meta d-flex justify-content-between">
                         <div class="comment me-4">
                             <span class="font-wight-700">Siyasət</span>
                         </div>
-
                         <div class="date">
                             <i class="fa fa-clock-o"></i>
                             <span class='font-wight-700'> 20 May, 2022</span>
@@ -596,11 +651,10 @@
                         <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting wrong.</a>
                         </h4>
                     </div>
-                    <div class="meta d-flex justify-content-end">
+                    <div class="meta d-flex justify-content-between">
                         <div class="comment me-4">
                             <span class="font-wight-700">Siyasət</span>
                         </div>
-
                         <div class="date">
                             <i class="fa fa-clock-o"></i>
                             <span class='font-wight-700'> 20 May, 2022</span>
@@ -616,7 +670,7 @@
 </div>
 </div>
 
-<div class="pd-top-70 pd-bottom-30">
+<div class="pd-top-70 ">
     <div class="container">
         <div class="row">
             <div class="section-title d-flex justify-content-between pb-0">
@@ -635,9 +689,11 @@
                                         <div class="overlay"></div>
                                         <img src="assets/img/imagedata/news-freeman.jpg" alt="img" style="opacity: 1;">
                                         <a class="tag data__banner tag-green tag__change-padding-left">Din</a>
-                                        <div class="video__image--btn">
-                                            <img src="assets/img/icon/play.png" alt="img">
-                                        </div>
+                                        <a href="blog-video.php">
+                                            <div class="video__image--btn">
+                                                <img src="assets/img/icon/play.png" alt="img">
+                                            </div>
+                                        </a>
                                     </div>
                                 </a>
                                 <div class="top-post-details video-area__details">
@@ -673,9 +729,11 @@
                                                 <div class="overlay"></div>
                                                 <img src="assets/img/imagedata/news-freeman.jpg" alt="img">
                                                 <a class="tag data__banner tag-green tag__change-padding-left">Din</a>
-                                                <div class="image__video---btn">
-                                                    <img src="assets/img/icon/play.png" alt="img">
-                                                </div>
+                                                <a href="blog-video.php">
+                                                    <div class="video__image--btn">
+                                                        <img src="assets/img/icon/play.png" alt="img">
+                                                    </div>
+                                                </a>
                                             </div>
                                             <div class="top-post-details top-post-details__major">
                                                 <h4><a href="blog-video.php">Hugee glacier collapses in Arge.</a></h4>
@@ -706,9 +764,11 @@
                                                         <img src="assets/img/imagedata/news-freeman.jpg" alt="img">
                                                         <a
                                                             class="tag data__banner tag-green tag__change-padding-left">Din</a>
-                                                        <div class="image__video---btn">
-                                                            <img src="assets/img/icon/play.png" alt="img">
-                                                        </div>
+                                                        <a href="blog-video.php">
+                                                            <div class="video__image--btn">
+                                                                <img src="assets/img/icon/play.png" alt="img">
+                                                            </div>
+                                                        </a>
                                                     </div>
                                                     <div class="top-post-details top-post-details__major">
 
@@ -750,9 +810,11 @@
                                             <div class="overlay"></div>
                                             <img src="assets/img/imagedata/news-freeman.jpg" alt="img">
                                             <a class="tag data__banner tag-green tag__change-padding-left">Din</a>
-                                            <div class="image__video---btn">
-                                                <img src="assets/img/icon/play.png" alt="img">
-                                            </div>
+                                            <a href="blog-video.php">
+                                                <div class="video__image--btn">
+                                                    <img src="assets/img/icon/play.png" alt="img">
+                                                </div>
+                                            </a>
                                         </div>
                                         <div class="top-post-details top-post-details__major">
                                             <h4><a href="blog-video.php">Hugee glacier collapses in Arge.</a></h4>
@@ -781,9 +843,11 @@
                                         <div class="overlay"></div>
                                         <img src="assets/img/imagedata/news-freeman.jpg" alt="img">
                                         <a class="tag data__banner tag-green tag__change-padding-left">Din</a>
-                                        <div class="image__video---btn">
-                                            <img src="assets/img/icon/play.png" alt="img">
-                                        </div>
+                                        <a href="blog-video.php">
+                                            <div class="video__image--btn">
+                                                <img src="assets/img/icon/play.png" alt="img">
+                                            </div>
+                                        </a>
                                     </div>
                                     <div class="top-post-details top-post-details__major">
 
@@ -813,9 +877,11 @@
                                         <div class="overlay"></div>
                                         <img src="assets/img/imagedata/news-freeman.jpg" alt="img">
                                         <a class="tag data__banner tag-green tag__change-padding-left">Din</a>
-                                        <div class="image__video---btn">
-                                            <img src="assets/img/icon/play.png" alt="img">
-                                        </div>
+                                        <a href="blog-video.php">
+                                            <div class="video__image--btn">
+                                                <img src="assets/img/icon/play.png" alt="img">
+                                            </div>
+                                        </a>
                                     </div>
                                     <div class="top-post-details top-post-details__major">
                                         <h4><a href="blog-video.php">Huge glacier collapses in Arge.</a></h4>

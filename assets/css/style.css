@@ -781,8 +781,8 @@ ul {
   color: #111;
 }
 .meta .author .thumb {
-  width: 28px;
-  height: 28px;
+  width: 45px;
+  height: 45px;
   display: inline-block;
   border-radius: 50%;
   margin-right: 10px;
@@ -798,7 +798,7 @@ ul {
   margin-right: 10px;
 }
 .meta .comment {
-  margin-left: 22px;
+  /* margin-left: 22px; */
 }
 .meta .comment i, .meta .comment svg {
   margin-right: 10px;
@@ -2840,15 +2840,15 @@ ul {
   display: none;
 }
 
-.post-slider .owl-nav {
+/* .post-slider .owl-nav {
   display: none;
-}
+} */
 .post-slider .owl-dots {
   position: absolute;
   top: 40px;
   left: 40px;
 }
-.post-slider .owl-dots .owl-dot {
+/* .post-slider .owl-dots .owl-dot {
   height: 8px;
   width: 8px;
   padding: 0;
@@ -2860,19 +2860,22 @@ ul {
   cursor: pointer;
   -webkit-transition: all 0.4s ease-in;
   transition: all 0.4s ease-in;
-}
+} */
 .post-slider .owl-dots .owl-dot:last-child {
   margin-right: 0;
 }
 .post-slider .owl-dots .owl-dot.active {
-  background: #ff1d5b;
+  /* background: #ff1d5b; */
 }
 
 .post-banner-area .top-post-wrap .thumb img {
   border-radius: 4px;
 }
-.post-banner-area .owl-dot {
-  display: none;
+.post-banner-area .owl-dots {
+  display: inline-block;
+    position: absolute;
+    bottom: 5%;
+    right: 54%;
 }
 
 .post-banner-area .banner-slider .owl-nav {
@@ -2919,7 +2922,8 @@ ul {
   border-radius: 10px;
 }
 .post-banner-slider .owl-nav button {
-  background: transparent;
+  display: none;
+  /* background: transparent;
   border: 0;
   color: #fff;
   font-size: 50px;
@@ -2929,14 +2933,15 @@ ul {
           transform: translate(0, -50%);
   -webkit-transition: all 0.4s ease-in;
   transition: all 0.4s ease-in;
-  opacity: 0;
+  opacity: 0; */
 }
-.post-banner-slider .owl-nav .owl-prev {
+/* .post-banner-slider .owl-nav .owl-prev {
   left: 38px;
+  
 }
 .post-banner-slider .owl-nav .owl-next {
   right: 38px;
-}
+} */
 
 /**single-post-wrap**/
 .single-post-wrap {
@@ -4631,12 +4636,12 @@ blockquote .icon {
 
 
 .blog__category__image{
-   height: 23rem;
+   height: 14rem;
 }
 
 @media screen and (max-width:600px){
   .blog__category__image{
-    height: 18rem;
+    height: 12rem;
  }
 }
 
@@ -5275,29 +5280,130 @@ textarea::placeholder {
 .tgslider__active .slick-list {
   overflow: visible;
 }
-@media (max-width: 1199.98px) {
-  .
+
+
+.category__data-header{
+    font-size: 24px !important;
+    line-height: 29px !important;
+    margin-bottom: 15px !important;
+}
+
+@media screen and (max-width:600px){
+  .category__data-header{
+    margin-top: 0px !important;
+}
+}
+
+
+.category__data-para{
+  margin-top: 18px !important;
+  font-size: 15px !important;
+}
+
+
+.author__avatar--box{
+   width: 7rem;
+   height: 6rem;
+   border-radius: 50%;
+}
+.author__avatar--box img{
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+}
+
+
+.category__data-para{
+  margin-top: 18px !important;
+  font-size: 15px !important;
+}
+
+.author__box{
+    margin-bottom: 20px;
+}
+
+/* .author__box:not(:last-child)::after{
+} */
+
+.author__text{
+  font-family: "Nunito", sans-serif;
+  line-height: 22px;
+}
+
+.first__banner--img---box{
+  width: 100%;
+  height: 20rem;
+}
+
+@media (max-width:500px){
+  .first__banner--img---box{
+    height: 14rem;
+  }
+}
+
+.first__banner--img---box img{
+   width: 100%;
+   height: 100%; 
+   object-fit: cover;
+}
+
+.headers__slider--box{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.btn__read{
+  display:inline-block;
+}
+
+@media (max-width:769px){
+  .btn__read{
+    margin-bottom: 20px;
+  }
+}
+
+.metda__data div{
+  margin: 0 10px;
+}
+
+@media (max-width:496px){
+  .metda__data div{
+    margin: 10px 0;
+  }
+}
+
+.metda__data{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.media__body--data{
+  margin: 1.5rem 0;
+}
 
 
 
+@media (max-width:500px){
+  .media__body--data{
+    margin: 0;
+  }
+  
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.headers__slider--box .owl-nav{
+  display: none !important;
+}
+/* 
+.post-banner-slider--info .item .owl-dots .owl-dot{
+  width: 14px !important;
+    height: 14px !important;
+    border-radius: 50% !important;
+}
+ */
 
 
 
