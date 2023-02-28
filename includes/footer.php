@@ -78,4 +78,6 @@
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <!-- main js  -->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/slick.min.js"></script>
+     <script src="assets/js/swiper-bundle.js"></script>
 </body>
