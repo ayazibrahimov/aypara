@@ -16,7 +16,7 @@
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-4 col-sm-6">
-                        <h5 class="widget-title">Link 1</h5>
+                        <!-- <h5 class="widget-title">Link 1</h5> -->
                         <div class="widget widget_link">
                             <ul>
                                 <li><a href="index.php">Ana Səhifə</a></li>
@@ -29,7 +29,7 @@
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-4 col-sm-6">
-                        <h5 class="widget-title">Link 2</h5>
+                        <!-- <h5 class="widget-title">Link 2</h5> -->
                         <div class="widget widget_link">
                             <ul>
                                 <li><a href="blog-category.php">İqtisadiyyat</a></li>
@@ -58,7 +58,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <p>Copyright © Kiante 2022. All rights reserved</p>
+                        <p>Copyright © Abasofta 2023. All rights reserved</p>
                     </div>
                 </div>
             </div>

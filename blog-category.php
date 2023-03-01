@@ -23,7 +23,7 @@
                    <div class="row">
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -48,12 +48,12 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere in ab ipsam necessitatibus sunt iure ut, porro tempora cupiditate ipsum!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -78,12 +78,12 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere in ab ipsam necessitatibus sunt iure ut, porro tempora cupiditate ipsum!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -108,12 +108,12 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere in ab ipsam necessitatibus sunt iure ut, porro tempora cupiditate ipsum!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -138,12 +138,12 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere in ab ipsam necessitatibus sunt iure ut, porro tempora cupiditate ipsum!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -168,12 +168,12 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere in ab ipsam necessitatibus sunt iure ut, porro tempora cupiditate ipsum!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -198,12 +198,12 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere in ab ipsam necessitatibus sunt iure ut, porro tempora cupiditate ipsum!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -228,12 +228,12 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere in ab ipsam necessitatibus sunt iure ut, porro tempora cupiditate ipsum!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -258,12 +258,12 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum exercitationem reiciendis corrupti!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-6 col-12">
                            <div class="media-post-wrap pd-bottom-40 mb-0">
-                               <div class="blog__category__image mb-4">
+                               <div class="blog__category__image">
                                   <a href="blog-details.php"><img class="w-100" src="assets/img/imagedata/news-image.png" alt="img"></a>
                                </div>
                                <div class="media-body pt-1 ms-0">
@@ -288,7 +288,7 @@
                                 </div>
                             </div>
                                <p class="mb-3 category__data-para">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum exercitationem reiciendis corrupti!</p>
-                               <a class="btn btn-main mt-3" href="blog-details.php">Oxu</a>
+                               <a class="btn btn-main" href="blog-details.php">Oxu</a>
                            </div>
                        </div>
                       

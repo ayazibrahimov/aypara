@@ -29,11 +29,8 @@
                                 </h4>
                             </div>
                             <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
                                 </div>
 
                                 <div class="date">
@@ -46,63 +43,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                          <div class="media-post-wrap">
-                            <div class="index__image--2 mb-4">
-                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
-                            </div>
-                            <div class="media-body ms-0">
-                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
-                                        wrong.</a>
-                                </h4>
-                            </div>
-                            <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
-                                </div>
-
-                                <div class="date">
-                                    <i class="fa fa-clock-o"></i>
-                                    <span class='font-wight-700'> 20 May, 2022</span>
-                                </div>
-                                <div class="comment">
-                                    <span class="font-wight-700"> 100 Baxış</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                          <div class="media-post-wrap">
-                            <div class="index__image--2 mb-4">
-                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
-                            </div>
-                            <div class="media-body ms-0">
-                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
-                                        wrong.</a>
-                                </h4>
-                            </div>
-                            <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
-                                </div>
-
-                                <div class="date">
-                                    <i class="fa fa-clock-o"></i>
-                                    <span class='font-wight-700'> 20 May, 2022</span>
-                                </div>
-                                <div class="comment">
-                                    <span class="font-wight-700"> 100 Baxış</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
+                    <div class="col-lg-4 col-md-6">
                         <div class="media-post-wrap">
                             <div class="index__image--2 mb-4">
                                 <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
@@ -113,11 +54,8 @@
                                 </h4>
                             </div>
                             <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
                                 </div>
 
                                 <div class="date">
@@ -130,63 +68,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                          <div class="media-post-wrap">
-                            <div class="index__image--2 mb-4">
-                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
-                            </div>
-                            <div class="media-body ms-0">
-                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
-                                        wrong.</a>
-                                </h4>
-                            </div>
-                            <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
-                                </div>
-
-                                <div class="date">
-                                    <i class="fa fa-clock-o"></i>
-                                    <span class='font-wight-700'> 20 May, 2022</span>
-                                </div>
-                                <div class="comment">
-                                    <span class="font-wight-700"> 100 Baxış</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                          <div class="media-post-wrap">
-                            <div class="index__image--2 mb-4">
-                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
-                            </div>
-                            <div class="media-body ms-0">
-                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
-                                        wrong.</a>
-                                </h4>
-                            </div>
-                            <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
-                                </div>
-
-                                <div class="date">
-                                    <i class="fa fa-clock-o"></i>
-                                    <span class='font-wight-700'> 20 May, 2022</span>
-                                </div>
-                                <div class="comment">
-                                    <span class="font-wight-700"> 100 Baxış</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
+                    <div class="col-lg-4 col-md-6">
                         <div class="media-post-wrap">
                             <div class="index__image--2 mb-4">
                                 <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
@@ -197,11 +79,8 @@
                                 </h4>
                             </div>
                             <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
                                 </div>
 
                                 <div class="date">
@@ -214,8 +93,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                          <div class="media-post-wrap">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media-post-wrap">
                             <div class="index__image--2 mb-4">
                                 <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
                             </div>
@@ -225,11 +104,8 @@
                                 </h4>
                             </div>
                             <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
                                 </div>
 
                                 <div class="date">
@@ -242,8 +118,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                          <div class="media-post-wrap">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media-post-wrap">
                             <div class="index__image--2 mb-4">
                                 <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
                             </div>
@@ -253,11 +129,8 @@
                                 </h4>
                             </div>
                             <div class="meta d-flex justify-content-between">
-                                <div class="author">
-                                    <!-- <div class="thumb">
-                                        <img src="assets/img/banner/user.jpeg" alt="img">
-                                    </div> -->
-                                    <a href="#">Ramiz Yunus</a>
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
                                 </div>
 
                                 <div class="date">
@@ -270,6 +143,107 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media-post-wrap">
+                            <div class="index__image--2 mb-4">
+                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
+                            </div>
+                            <div class="media-body ms-0">
+                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
+                                        wrong.</a>
+                                </h4>
+                            </div>
+                            <div class="meta d-flex justify-content-between">
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
+                                </div>
+
+                                <div class="date">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class='font-wight-700'> 20 May, 2022</span>
+                                </div>
+                                <div class="comment">
+                                    <span class="font-wight-700"> 100 Baxış</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media-post-wrap">
+                            <div class="index__image--2 mb-4">
+                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
+                            </div>
+                            <div class="media-body ms-0">
+                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
+                                        wrong.</a>
+                                </h4>
+                            </div>
+                            <div class="meta d-flex justify-content-between">
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
+                                </div>
+
+                                <div class="date">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class='font-wight-700'> 20 May, 2022</span>
+                                </div>
+                                <div class="comment">
+                                    <span class="font-wight-700"> 100 Baxış</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media-post-wrap">
+                            <div class="index__image--2 mb-4">
+                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
+                            </div>
+                            <div class="media-body ms-0">
+                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
+                                        wrong.</a>
+                                </h4>
+                            </div>
+                            <div class="meta d-flex justify-content-between">
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
+                                </div>
+
+                                <div class="date">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class='font-wight-700'> 20 May, 2022</span>
+                                </div>
+                                <div class="comment">
+                                    <span class="font-wight-700"> 100 Baxış</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media-post-wrap">
+                            <div class="index__image--2 mb-4">
+                                <a href="blog-details.php"><img src="assets/img/imagedata/culture-1.jpg" alt="img"></a>
+                            </div>
+                            <div class="media-body ms-0">
+                                <h4><a href="blog-details.php">The golden rules of midlife fitness and things getting
+                                        wrong.</a>
+                                </h4>
+                            </div>
+                            <div class="meta d-flex justify-content-between">
+                                <div class="comment me-4">
+                                    <span class="font-wight-700">Ramiz Yunus</span>
+                                </div>
+
+                                <div class="date">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class='font-wight-700'> 20 May, 2022</span>
+                                </div>
+                                <div class="comment">
+                                    <span class="font-wight-700"> 100 Baxış</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                  
                    
                     <div class="pagination-area text-center">
                         <nav aria-label="Page navigation example">

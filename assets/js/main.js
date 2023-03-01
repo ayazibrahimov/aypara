@@ -101,7 +101,7 @@
         $('.post-banner-slider').owlCarousel({
             loop: true,
             dots: false,
-            autoplayHoverPause:true,
+            // autoplayHoverPause:true,
             autoplay:true,
             smartSpeed:800,
             items: 1,

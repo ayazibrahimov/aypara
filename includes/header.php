@@ -45,17 +45,17 @@
 		<div class="top-header-area">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-md-6 col-sm-6">                
+                    <div class="col-md-6 col-sm-8 col-12">                
                         <div class="header-date">August 6, 2022</div>
                         <div class="header-weather"><i class="fa fa-weather"></i>   38°C</div>  
                         <div class="header-weather"><i class="fa fa-m"></i> 1$ = 1.7₼</div>  
                     </div>
-                    <div class="col-md-6 col-sm-6 text-end">
+                    <div class="col-md-6 col-sm-4 col-12 text-end">
                         <div class="htop_social">
-                            <a href="#" class="social-list__link"><i class="fa fa-facebook-f"></i></a>
-                            <a href="#" class="social-list__link"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="social-list__link"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="social-list__link"><i class="fa fa-youtube-play"></i></a>
+                            <a href="https://www.facebook.com/Aypara.tv/" class="social-list__link"><i class="fa fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/aypara.tv/" class="social-list__link"><i class="fa fa-instagram"></i></a>
+                            <a href="https://www.youtube.com/channel/UCbFXHeco2MczJJYfsH2ECvg" class="social-list__link"><i class="fa fa-youtube-play"></i></a>
+                            <a href="https://twitter.com/Ayparatv?lang=en" class="social-list__link"><i class="fa fa-twitter"></i></a>  
                         </div>
                     </div>
                 </div>

@@ -14,7 +14,7 @@
     </div>
     
     <!-- blog-area start -->
-    <div class="blog-area pd-top-100 pd-bottom-100">
+    <div class="blog-area pd-top-100">
         <div class="container container--mt-4">
             <div class="row">
                 <div class="col-lg-8">
